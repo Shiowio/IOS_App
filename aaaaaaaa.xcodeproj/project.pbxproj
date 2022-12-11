@@ -66,8 +66,8 @@
 			isa = PBXGroup;
 			children = (
 				EC6DC6E0293A427B00D8437E /* aaaaaaaaApp.swift */,
-				ECFDA27D29414004006D352C /* DataManager.swift */,
 				EC6DC6E2293A427B00D8437E /* ContentView.swift */,
+				ECFDA27D29414004006D352C /* DataManager.swift */,
 				ECFDA27F29414941006D352C /* NewDogView.swift */,
 				ECFDA27929413CB3006D352C /* ListView.swift */,
 				ECFDA27B29413D1C006D352C /* Dog.swift */,
